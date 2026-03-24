@@ -30,3 +30,5 @@ Sitio web sobre Sistemas Distribuidos - Actividad Practica
 * **Arquitectura Cliente-Servidor:** La comprensión de que el navegador (cliente) solicita recursos alojados en servidores remotos (GitHub) donde la renderización final ocurre en el extremo del usuario.
 * **Consistencia y Sincronización:** Cómo Git gestiona la integridad de los datos entre múltiples nodos y resuelve conflictos para mantener una "fuente única de verdad".
 * **Latencia y Redes:** La percepción de cómo la distancia física a los centros de datos afecta la velocidad de respuesta, concepto clave en sistemas geográficamente distribuidos.
+
+### 5.  URL del sitio publicado: 
