@@ -31,4 +31,4 @@ Sitio web sobre Sistemas Distribuidos - Actividad Practica
 * **Consistencia y Sincronización:** Cómo Git gestiona la integridad de los datos entre múltiples nodos y resuelve conflictos para mantener una "fuente única de verdad".
 * **Latencia y Redes:** La percepción de cómo la distancia física a los centros de datos afecta la velocidad de respuesta, concepto clave en sistemas geográficamente distribuidos.
 
-### 5.  URL del sitio publicado: 
+### 5.  URL del sitio publicado: https://wilmerparra123.github.io/sitio-sistemas-distribuidos/
